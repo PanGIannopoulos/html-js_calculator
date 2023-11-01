@@ -1,0 +1,19 @@
+
+div {text-align: center;}
+
+h1 {text-align: center;}
+h2 {text-align: center;}
+
+body {
+    background-color: rgb(27, 26, 26);
+    color: rgb(16, 168, 97);
+}
+
+input{
+    background-color: grey ;
+    color : rgb(163, 207, 186);
+}
+button{
+    background-color: black ;
+    color : rgb(16, 168, 97);
+}
